@@ -1,0 +1,6 @@
+2020-06-02 00:34:22.053 [AWT-EventQueue-0] INFO  Listeners - browse button is clicked!
+2020-06-02 00:34:34.986 [AWT-EventQueue-0] INFO  Listeners - browse button is clicked!
+2020-06-02 00:34:44.682 [AWT-EventQueue-0] INFO  Listeners - browse button is clicked!
+2020-06-02 00:34:54.246 [AWT-EventQueue-0] INFO  Listeners - browse button is clicked!
+2020-06-02 00:35:08.022 [AWT-EventQueue-0] INFO  Listeners - we are looking at a Directory not a single file
+2020-06-02 00:35:08.022 [AWT-EventQueue-0] INFO  Listeners - the directory path is: /Users/eddie/go
